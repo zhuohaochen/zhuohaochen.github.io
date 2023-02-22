@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://zhuohaochen.github.io/publications/
 
 #  - title: "Talks"
 #    url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://zhuohaochen.github.io/teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -16,7 +16,7 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://zhuohaochen.github.io/cv/
     
   - title: "Guide"
-    url: /markdown/
+    url: https://zhuohaochen.github.io/publicationsmarkdown/
