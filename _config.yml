@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhuohao Chen"
-  avatar           : "zhuohao-photo.png"
-  bio              :
+  name             : 
+  avatar           : 
+  bio              : 
   location         : "Los Angeles"
   employer         :
   pubmed           :
