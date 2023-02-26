@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Journals"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Benjamin van der Woerd, Zhuohao Chen, Nikolaos Flemotomos, Maria Oljaca, Lauren Timmons Sund, Shrikanth Narayanan, Michael M. Johns.
+"Evaluating dysphonia severity of recorded audio samples using machine learning." Submitted to The laryngoscope
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Zhuohao Chen, Nikolaos Flemotomos, Karan Singla, Torrey Creed, Zac Imel, David Atkins, Shrikanth Narayanan. "An Automated Quality
+Evaluation Framework of Psychotherapy Conversations with Local Quality Estimates." Computer Speech & Language 2022
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Nikolaos Flemotomos, Victor Martinez, Zhuohao Chen, et al. "Automated Quality Assessment of Cognitive Behavioral Therapy Sessions Through
+Highly Contextualized Language Representations." PlOS ONE, October 2021
+
+Nikolaos Flemotomos, Victor Martinez, Zhuohao Chen, Karan Singla, Victor Ardulov, R. Peri, James Gibson, Michael Tanana, Panayiotis Georgiou,
+Jake Van Epps, Sarah Lord, Tad Hirsch, Zac Imel, David Atkins and Shrikanth Narayanan. " ‘Am I a Good Therapist?’ Automated Evaluation of
+Psychotherapy Skills Using Speech and Language Technologies. " Behavior Research Methods, August 2021
